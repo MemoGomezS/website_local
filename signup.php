@@ -1,6 +1,7 @@
 <?php
 
 // please only use the fields thata re present in the html form itself for now we have listed all possible ones
+header('Content-Type: text/html; charset=UTF-8');
 
 $to = "michel.fraire@gmail.com";
 
